@@ -1,6 +1,7 @@
 site_name: Example docs 
 nav:
   - Principal: index.md 
-  - Acerca de: about.md 
+  - Acerca de: about.md
+  - Ejemplo: mcthiele.md
 theme: readthedocs
 

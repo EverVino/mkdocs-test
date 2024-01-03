@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to fqlearn 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hola como estan fq learn es un paquete que sirve para simplificar la ense;anza de la termodinamica a estudiantes de pregrado 
 
 ## Commands
 
